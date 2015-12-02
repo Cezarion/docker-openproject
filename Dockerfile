@@ -1,4 +1,4 @@
-FROM       abevoelker/ruby:2.2.0
+FROM       abevoelker/ruby:latest
 MAINTAINER Aris Synodinos <arissynod@gmail.com>
 
 # Set up application user 'openproject' and check out source
