@@ -1,7 +1,5 @@
 # Install modules with stables versions
 
-
-gem 'openproject-plugins',         git: 'https://github.com/opf/openproject-plugins.git',              :branch => 'stable/5'
 gem 'openproject-backlogs',        git: 'https://github.com/finnlabs/openproject-backlogs.git',        :branch => 'stable/5'
 gem 'openproject-pdf_export',      git: 'https://github.com/finnlabs/openproject-pdf_export.git',      :branch => 'stable/5'
 gem 'openproject-themes-dark',     git: 'https://github.com/finnlabs/openproject-themes-dark.git',     :branch => 'stable/5'
